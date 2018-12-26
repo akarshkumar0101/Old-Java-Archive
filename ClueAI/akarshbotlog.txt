@@ -1,0 +1,198 @@
+Name
+Roomname 0 2nd Floor Landing
+Roomname 1 Cooper's Lab
+Roomname 2 Cooper's Room
+Roomname 3 Krakowiak's Lab
+Roomname 4 Buzen's Lab
+Roomname 5 Comp Lab A
+Roomname 6 French Room
+Roomname 7 L Waddell's Room
+Roomname 8 6th floor Pine
+Roomname 9 J Waddell's Room
+Weaponname 16 0 physics pendulum accelerometer
+Weaponname 16 1 computer keyboard
+Weaponname 16 2 paper
+Weaponname 16 3 laptop
+Weaponname 16 4 pen
+Weaponname 16 5 knife
+Weaponname 16 6 revolver
+Weaponname 16 7 rope
+Weaponname 16 8 wrench
+Weaponname 16 9 lead pipe
+Weaponname 16 10 cafeteria fork
+Weaponname 16 11 cafeteria spoon
+Weaponname 16 12 cafeteria knife
+Weaponname 16 13 car
+Weaponname 16 14 fire extinguisher
+Weaponname 16 15 door knob
+Personname 46 0 Director Alderdice
+Personname 46 1 Dean Gregory
+Personname 46 2 Kim McKean
+Personname 46 3 Dr. Ruehle
+Personname 46 4 Dr. Kostopulos
+Personname 46 5 Dr. Leigh
+Personname 46 6 Brian Isbell
+Personname 46 7 Dr. Oatsvall
+Personname 46 8 Bryan Adams
+Personname 46 9 Señor Mac
+Personname 46 10 James Katowich
+Personname 46 11 Dr. Monson
+Personname 46 12 Dr. J Waddell
+Personname 46 13 Dr. L Waddell
+Personname 46 14 Dr. Krakowiak
+Personname 46 15 Shane Thompson
+Personname 46 16 Jill Cooper
+Personname 46 17 Denise Gregory
+Personname 46 18 Nikki Zhang
+Personname 46 19 Daniel Moix
+Personname 46 20 Teacher Walt
+Personname 46 21 Caleb Grisham
+Personname 46 22 Josh Ulrey
+Personname 46 23 Nick Seward
+Personname 46 24 Carl Frank
+Personname 46 25 Fred Zipkes
+Personname 46 26 Olivia Jarrell
+Personname 46 27 Penny Lock
+Personname 46 28 Saul Broussard
+Personname 46 29 Kevin Abbott
+Personname 46 30 Nurse White
+Personname 46 31 Jason Riley
+Personname 46 32 Tim Heron, Jr.
+Personname 46 33 Alex Browning
+Personname 46 34 James Wesson
+Personname 46 35 Ashley Clayborn
+Personname 46 36 Deana Hughes
+Personname 46 37 Roxanne Easter
+Personname 46 38 Dean Currier
+Personname 46 39 Sharon Brown
+Personname 46 40 Ron Luckow
+Personname 46 41 Briana Crowe
+Personname 46 42 Raynetta Newton
+Personname 46 43 Kayla Roop
+Personname 46 44 Akarsh's AI
+Personname 46 45 Starter bot
+Card 0 37
+Card 0 41
+Card 0 10
+Card 0 32
+Card 0 17
+Card 0 44
+Card 0 16
+Card 0 29
+Card 0 27
+Card 0 6
+Card 0 45
+Card 0 11
+Card 0 19
+Card 0 18
+Card 0 4
+Card 0 14
+Card 0 7
+Card 0 38
+Card 0 24
+Card 0 34
+Card 0 39
+Card 0 35
+Card 0 22
+Card 1 6
+Card 1 1
+Card 1 2
+Card 1 12
+Card 1 14
+Card 1 8
+Card 1 9
+Card 1 13
+Card 2 2
+Card 2 3
+Card 2 0
+Card 2 6
+Card 2 4
+Move 100000000000 1
+internal: 36 / 36 / 72
+Opponent 1 3 2
+Move 100000000000 7
+internal: 36 / 36 / 72
+Card From 1 0 0
+Opponent 1 3 0
+Move 100000000000 2
+internal: 36 / 37 / 72
+Card From 1 0 1
+Opponent 1 2 0
+Move 100000000000 7
+internal: 36 / 38 / 72
+Card From 1 0 2
+Opponent 1 2 0
+Move 100000000000 1
+internal: 36 / 39 / 72
+Card From 1 0 3
+Opponent 1 1 0
+Move 100000000000 8
+internal: 36 / 40 / 72
+Card From 1 0 5
+Opponent 1 3 5
+Move 100000000000 8
+internal: 36 / 41 / 72
+Card From 1 0 8
+Opponent 1 6 3
+Guess 1 9 6 9
+Disprove 1 9 6 9
+Move 100000000000 1
+internal: 36 / 42 / 72
+Card From 1 0 9
+Opponent 1 7 3
+Move 100000000000 4
+internal: 36 / 43 / 72
+Card From 1 0 12
+Opponent 1 7 4
+Move 100000000000 11
+internal: 36 / 44 / 72
+Card From 1 0 13
+Opponent 1 7 3
+Move 100000000000 5
+internal: 36 / 45 / 72
+Card From 1 0 15
+Opponent 1 5 1
+Move 100000000000 1
+internal: 36 / 46 / 72
+Card From 1 0 20
+Opponent 1 6 7
+Guess 1 36 4 5
+Disprove 1 36 4 5
+Move 100000000000 12
+internal: 36 / 47 / 72
+Card From 1 0 21
+Card 0 13
+Card 0 0
+Card 0 36
+Card 0 23
+Card 0 1
+Card 0 15
+Card 0 25
+Card 0 21
+Card 0 33
+Card 0 26
+Card 0 20
+Card 0 12
+Card 0 3
+Card 0 2
+Card 0 40
+Card 0 5
+Card 0 42
+Card 0 28
+Card 0 9
+Card 0 31
+Card 0 8
+Card 0 30
+Card 1 10
+Card 1 11
+Card 1 7
+Card 1 0
+Card 1 3
+Card 1 15
+Card 1 4
+Card 2 5
+Card 2 1
+Card 2 8
+Card 2 9
+Accusation 1 36 4 5
+Win 0

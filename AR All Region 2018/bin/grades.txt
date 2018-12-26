@@ -1,0 +1,3 @@
+John Adams 100 90 73 64 0 99 72
+Sally Jones 80 88 98 75 69
+Simon Snickers 0 8 29 34 63 90

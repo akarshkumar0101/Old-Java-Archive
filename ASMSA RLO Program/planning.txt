@@ -1,0 +1,14 @@
+Types of things to track:
+
+all students
+all kinds of priviledges
+	has priviledges
+	study hour priviledges
+	driving priviledges
+all sorts of checking out
+	downtown checkout
+	car checkout
+	school checkout
+	parent checkout (just weekend?)
+	weekend checkout
+ 

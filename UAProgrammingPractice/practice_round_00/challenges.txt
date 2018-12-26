@@ -1,0 +1,101 @@
+Problem 00:
+Given a string consisting of empty cells (_), fences (|), one dog (d), and 
+one squirrel (s).  In 2 units of time, the squirrel can move 1 no matter 
+what.  In 1 unit of time, the dog can move to an empty cell.  In 2 units 
+of time the dog can jump on top of a fence.  (It only takes 1 time unit
+for the dog to jump down.)  At what time will the dog catch the squirrel?
+
+examples:
+___d__s___ time:0
+____d_s___ time:1
+_____d_s__ time:2
+______ds__ time:3
+_______ds_ time:4
+________x_ time:5
+
+___d_|s___ time:0
+____d|s___ time:1
+____d|_s__ time:2
+_____d_s__ time:3
+_____|d_s_ time:4
+_____|_ds_ time:5
+_____|__ds time:6
+_____|___x time:7
+
+input:
+___d__s___
+___d_|s___
+s________d
+__________sd_____
+__________s_d_____
+
+output:
+5
+7
+NEVER
+1
+3
+
+
+Problem 01:
+As a simple checksum you come up with a method of doing a digital sum 
+repeatedly until you get one digit.  Write a program to do this for
+you.
+
+example:
+123456  1+2+3+4+5+6=21
+21 1+2=3
+3
+
+input:
+123456
+654321
+6543217
+99999
+
+output:
+3
+3
+1
+9
+
+Problem 02:
+Give two fractions.  Add them and express as a mixed fraction.
+
+example:
+4/5 2/5    4/5+2/5=6/5=1 1/5
+
+input:
+4/5 2/5
+1/3 1/6
+1/3 1/6
+1/3 3/9
+1/3 3/2
+
+output:
+1 1/5
+1/2
+2/3
+0
+1 5/6
+
+
+Problem 03:
+You are given a number.  This number can be expressed as a sum of two 
+numbers.  What is the maximum number of 1's you could use for both of 
+these numbers combined?
+
+example:
+4 -> 100base2  11base2+1base2=100base2
+3 1's
+
+input:
+4
+...
+
+output:
+3
+...
+
+
+

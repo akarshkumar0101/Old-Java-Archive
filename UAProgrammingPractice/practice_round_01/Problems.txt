@@ -1,0 +1,120 @@
+Rules:
+-1 Computer (Additional screens may be used to read the problems.)
+-No Internet (A direct API lookup is permitted but you have to print it
+for future reference.)
+-1.1 hour time limit
+
+Input:
+Input and output formats are all shown by included files.  Use command 
+prompt redirects.  Do not directly reference files in your code.
+
+Submission:
+practice.zip
+ -Program1A.java
+ -Program1B.java
+  ...
+ -Program4B.java
+
+Good luck!  I will buy your dinner if you can solve all 8 in 66 minutes.
+
+===================================1====================================
+
+1A)  You are given a floating point number (x) and an arbitrary base 
+(b). Find the base 10 representation and report it with 5 decimal places 
+(truncate). Constraint: 0<=x<b; 2<=b<=36
+
+A=10
+B=11
+...
+Z=36
+
+Help:
+1.212 base 3 = 1+2/3+1/3**2+2/3**3 ~ 1.85185 base 10
+
+------------------------------------------------------------------------
+
+1B) You are give a floating point number (x) and need to convert it to 
+an arbitrary base (b).  Report with 5 decimal places (truncate).  
+Constraint: 0<x<b; 2<=b<=36
+
+Help:
+3.14159 to base 16
+remove the 3
+0.14159
+multiply by 16
+2.26544
+remove the 2
+0.26544
+multiply by 16
+4.24704
+remove the 4
+0.24704
+multiply by 16
+3.95264
+remove the 3
+0.95264
+multiply by 16
+15.24224
+remove the 15/F
+0.24224
+multiply by 16
+3.87584
+remove the 3
+...
+3.243F3
+
+===================================2====================================
+
+2A) An interesting way to calculate pi is to randomly throw sticks of 
+unit length at the ground with an infinite array of horizontal lines 
+with unit spacing. Pi can be calculated by 2/percentage_crossing.  Each 
+line will give you all the samples from one experiment. Each tuple is a 
+center y coordinate/angle (in degrees) pair. Report Pi to 5 decimal 
+points. Constraints: -10<=y<10; 0<=angle<180
+
+Help:
+3.25,0.0 means y=3.25 and angle=0
+The y coordinate of each end of the stick is also 3.25 so it doesn't 
+cross a line.
+
+3.25,90.0 means y=3.25 and angle=90
+The y coordinate of the top will be 3.25+.5=3.75 and the y coordinate of 
+the bottom will be 3.25-.5=2.75.  3.75 and 2.75 are on different sides 
+of y=3 therefor it crosses a line.  If any point (including the 
+endpoints) of the stick has an integer y coordinate then we will 
+consider it to be crossing a line.
+
+------------------------------------------------------------------------
+
+2B) After doing 2A you realize your ruler wasn't the most accurate. Each
+y measurement could be off by +/-0.1.  Given the data for an experiment,
+find the lowest estimate and highest estimate you could get. Report 
+MaxPi and MinPi to 5 decimal points.
+
+===================================3====================================
+
+3A) You start at coordinate 0,0 and are given a string representing unit
+length moves in the cardinal directions.  What is your coordinate at
+the end of each walk?
+
+------------------------------------------------------------------------
+
+3B) Given a walk, find the smallest string lexigraphically that will get
+you back home in the least amount of steps.
+
+===================================4====================================
+
+4A) You are given text and a width.  Center the given text. Input may 
+have whitespace and span multiple lines.  A line with a single int will
+indicate the width and terminate an input text. (Extra spaces go to the 
+left.)
+
+------------------------------------------------------------------------
+
+4B) You are given text and a width and height.  Center the given text
+in a box of the given dimensions. Input may have
+whitespace and span multiple lines.  A line with two ints seperated by a 
+space will indicate the width and height in addition to terminating an 
+input text. (Extra spaces go to the left.  Extra lines go to the top.)
+
+========================================================================
